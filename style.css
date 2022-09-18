@@ -149,7 +149,7 @@ main img {
 }
 
 main img.pequena {
-    max-width: 350px;
+    max-width: 650px;
     display: block;
     margin: auto;
 }
